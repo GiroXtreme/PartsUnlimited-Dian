@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PartsUnlimited.Models
 {
-    //Coment remoto
+    //Coment local y remoto
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }
