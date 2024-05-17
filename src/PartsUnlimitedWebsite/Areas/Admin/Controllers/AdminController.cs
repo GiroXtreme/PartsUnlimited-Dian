@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PartsUnlimited.Areas.Admin.Controllers
 {
+    //comentario remoto
     //Comentario local
     [Area(AdminConstants.Area)]
     [Authorize(AdminConstants.Role)]
