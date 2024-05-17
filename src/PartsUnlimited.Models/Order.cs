@@ -9,6 +9,7 @@ namespace PartsUnlimited.Models
 {
     public class Order
     {
+        //Coment en rama develop
         [BindNever]
         [ScaffoldColumn(false)]
         public int OrderId { get; set; }
